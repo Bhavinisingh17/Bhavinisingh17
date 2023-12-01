@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Bhavinisingh17
 - 👩‍💻 I’m interested in coding.
 - 🌐 I’m currently learning web development.
-- 
-- 
-- 
+  
+  
+  
 
 <!---
 Bhavinisingh17/Bhavinisingh17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
